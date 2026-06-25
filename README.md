@@ -1,5 +1,5 @@
 # CON-CHORTEN
-simple cmd menu to add and remove shorten apps wih icons on context menu 
+simple cmd menu to add and remove shorten apps with icons on context menu 
 
 
 -- **_SCREENSHOT_**
